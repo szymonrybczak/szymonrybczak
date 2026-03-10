@@ -1,8 +1,6 @@
 # Hello! 👋
 
-My name is Szymon, and I'm 19 years old React Native Developer with five years of experience.
-
-Currently building mobile apps at [Born](https://born.com/)!
+My name is Szymon, and I'm 19 yo dev. Currently I'm building [TesterArmy](https://tester.army/), future of tesing web and mobile apps. 
 
 ## Follow me on X
 
