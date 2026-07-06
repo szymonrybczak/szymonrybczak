@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Szymon, and I'm 19 yo dev. Currently I'm building [TesterArmy](https://tester.army/), future of tesing web and mobile apps. 
+My name is Szymon and I'm currently building the future of autonomous QA testing at [TesterArmy](https://tester.army/).
 
 ## Follow me on X
 
